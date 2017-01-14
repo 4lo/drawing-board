@@ -1,11 +1,1 @@
-﻿  readshape.cpp
-  readfile.cpp
-  mouselineandpoly.cpp
-  menu.cpp
-  line.cpp
-  fillpoly.cpp
-  Interfacehello.cpp
-  正在生成代码...
-c:\users\xxx\desktop\interface1.3\interface1.2\interface\readfile.cpp(58): warning C4715: “readfile”: 不是所有的控件路径都返回值
-  Interface.vcxproj -> C:\Users\xxx\Desktop\Interface1.3\Interface1.2\Debug\Interface.exe
-  Interface.vcxproj -> C:\Users\xxx\Desktop\Interface1.3\Interface1.2\Debug\Interface.pdb (Partial PDB)
+﻿
