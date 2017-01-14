@@ -1,0 +1,24 @@
+﻿  bar.cpp
+  circlestruct.cpp
+  fillpoly.cpp
+  Interfacehello.cpp
+  line.cpp
+  menu.cpp
+  readfile.cpp
+graphics15.lib(egegapi.obj) : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:ICF”规范)
+LINK : warning LNK4098: 默认库“MSVCRTD”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+graphics15.lib(egegapi.obj) : error LNK2001: 无法解析的外部符号 __imp__atof
+graphics15.lib(pngget.obj) : error LNK2001: 无法解析的外部符号 __imp__atof
+graphics15.lib(color.obj) : error LNK2001: 无法解析的外部符号 __imp__floor
+graphics15.lib(png.obj) : error LNK2001: 无法解析的外部符号 __imp__floor
+graphics15.lib(image.obj) : error LNK2001: 无法解析的外部符号 __imp__fread
+graphics15.lib(pngrio.obj) : error LNK2001: 无法解析的外部符号 __imp__fread
+graphics15.lib(image.obj) : error LNK2001: 无法解析的外部符号 __imp__fseek
+graphics15.lib(image.obj) : error LNK2001: 无法解析的外部符号 __imp__fwrite
+graphics15.lib(pngwio.obj) : error LNK2001: 无法解析的外部符号 __imp__fwrite
+graphics15.lib(image.obj) : error LNK2001: 无法解析的外部符号 __imp__wcsstr
+graphics15.lib(png.obj) : error LNK2001: 无法解析的外部符号 __imp__frexp
+graphics15.lib(png.obj) : error LNK2001: 无法解析的外部符号 __imp__modf
+graphics15.lib(pngwrite.obj) : error LNK2001: 无法解析的外部符号 __imp___gmtime64
+MSVCRTD.lib(_chandler4gs_.obj) : error LNK2001: 无法解析的外部符号 __except_handler4_common
+C:\Users\xxx\documents\visual studio 2015\Projects\Interface\Release\Interface.exe : fatal error LNK1120: 10 个无法解析的外部命令
