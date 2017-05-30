@@ -1,1 +1,49 @@
-﻿
+﻿  readshape.cpp
+  readfile.cpp
+  pixelline.cpp
+  mouselineandpoly.cpp
+  menu.cpp
+  line.cpp
+  Interfacehello.cpp
+  handletrans.cpp
+  fillpoly.cpp
+  eraser.cpp
+c:\users\xxx\documents\github\drawing-board\interface\eraser.cpp(11): warning C4551: 缺少参数列表的函数调用
+  cirlce.cpp
+c:\users\xxx\documents\github\drawing-board\interface\cirlce.cpp(58): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  cac.cpp
+  bar.cpp
+  正在生成代码...
+c:\users\xxx\documents\github\drawing-board\interface\readfile.cpp(58): warning C4715: “readfile”: 不是所有的控件路径都返回值
+graphicsd.lib(color.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphicsd.lib(color.obj)”或在“C:\Users\xxx\Documents\GitHub\drawing-board\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphicsd.lib(egecontrolbase.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphicsd.lib(egecontrolbase.obj)”或在“C:\Users\xxx\Documents\GitHub\drawing-board\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphicsd.lib(egegapi.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphicsd.lib(egegapi.obj)”或在“C:\Users\xxx\Documents\GitHub\drawing-board\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphicsd.lib(image.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphicsd.lib(image.obj)”或在“C:\Users\xxx\Documents\GitHub\drawing-board\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphicsd.lib(adler32.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphicsd.lib(adler32.obj)”或在“C:\Users\xxx\Documents\GitHub\drawing-board\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphicsd.lib(compress.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphicsd.lib(compress.obj)”或在“C:\Users\xxx\Documents\GitHub\drawing-board\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphicsd.lib(crc32.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphicsd.lib(crc32.obj)”或在“C:\Users\xxx\Documents\GitHub\drawing-board\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphicsd.lib(deflate.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphicsd.lib(deflate.obj)”或在“C:\Users\xxx\Documents\GitHub\drawing-board\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphicsd.lib(graphics.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphicsd.lib(graphics.obj)”或在“C:\Users\xxx\Documents\GitHub\drawing-board\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphicsd.lib(inffast.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphicsd.lib(inffast.obj)”或在“C:\Users\xxx\Documents\GitHub\drawing-board\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphicsd.lib(inflate.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphicsd.lib(inflate.obj)”或在“C:\Users\xxx\Documents\GitHub\drawing-board\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphicsd.lib(inftrees.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphicsd.lib(inftrees.obj)”或在“C:\Users\xxx\Documents\GitHub\drawing-board\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphicsd.lib(logo.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphicsd.lib(logo.obj)”或在“C:\Users\xxx\Documents\GitHub\drawing-board\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphicsd.lib(png.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphicsd.lib(png.obj)”或在“C:\Users\xxx\Documents\GitHub\drawing-board\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphicsd.lib(pngerror.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphicsd.lib(pngerror.obj)”或在“C:\Users\xxx\Documents\GitHub\drawing-board\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphicsd.lib(pngget.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphicsd.lib(pngget.obj)”或在“C:\Users\xxx\Documents\GitHub\drawing-board\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphicsd.lib(pngmem.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphicsd.lib(pngmem.obj)”或在“C:\Users\xxx\Documents\GitHub\drawing-board\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphicsd.lib(pngread.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphicsd.lib(pngread.obj)”或在“C:\Users\xxx\Documents\GitHub\drawing-board\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphicsd.lib(pngrio.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphicsd.lib(pngrio.obj)”或在“C:\Users\xxx\Documents\GitHub\drawing-board\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphicsd.lib(pngrtran.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphicsd.lib(pngrtran.obj)”或在“C:\Users\xxx\Documents\GitHub\drawing-board\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphicsd.lib(pngrutil.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphicsd.lib(pngrutil.obj)”或在“C:\Users\xxx\Documents\GitHub\drawing-board\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphicsd.lib(pngset.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphicsd.lib(pngset.obj)”或在“C:\Users\xxx\Documents\GitHub\drawing-board\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphicsd.lib(pngtrans.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphicsd.lib(pngtrans.obj)”或在“C:\Users\xxx\Documents\GitHub\drawing-board\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphicsd.lib(pngwio.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphicsd.lib(pngwio.obj)”或在“C:\Users\xxx\Documents\GitHub\drawing-board\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphicsd.lib(pngwrite.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphicsd.lib(pngwrite.obj)”或在“C:\Users\xxx\Documents\GitHub\drawing-board\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphicsd.lib(pngwtran.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphicsd.lib(pngwtran.obj)”或在“C:\Users\xxx\Documents\GitHub\drawing-board\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphicsd.lib(pngwutil.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphicsd.lib(pngwutil.obj)”或在“C:\Users\xxx\Documents\GitHub\drawing-board\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphicsd.lib(trees.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphicsd.lib(trees.obj)”或在“C:\Users\xxx\Documents\GitHub\drawing-board\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphicsd.lib(uncompr.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphicsd.lib(uncompr.obj)”或在“C:\Users\xxx\Documents\GitHub\drawing-board\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphicsd.lib(zutil.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphicsd.lib(zutil.obj)”或在“C:\Users\xxx\Documents\GitHub\drawing-board\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  Interface.vcxproj -> C:\Users\xxx\Documents\GitHub\drawing-board\Debug\Interface.exe
+  Interface.vcxproj -> C:\Users\xxx\Documents\GitHub\drawing-board\Debug\Interface.pdb (Partial PDB)

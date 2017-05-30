@@ -1,5 +1,5 @@
 //这是用来画矩形的函数，分为鼠标画和键盘键入画
-#include<graphics.h>
+#include"graphics.h"
 #include"bar.h"
 #include<stdio.h>
 #include"cac.h"
